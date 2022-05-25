@@ -21,6 +21,7 @@
   - [Preposiçoes de Tempo](#preposiçoes-de-tempo)
 - [Auxiliares Modais](#auxiliares-modais)
 - [Fazendo perguntas em inglês](#fazendo-perguntas-em-inglês)
+- [Números](#números)
 
 
 
@@ -150,8 +151,26 @@ Exemplo:
 You got to school -> DO you go to school?<p>
 He goes to School -> DOES he go to school?
 
-      OBS: Se a frase já possuir um verbo auxiliar, não utliza o TO DO, apenas inverter o axuliar presente.    
-- EXEMPLO:<br>
+**OBS: Se a frase já possuir um verbo auxiliar, não utliza o TO DO, apenas inverter o axuliar presente.**
+
+EXEMPLO:<br>
 You WILL stay here -> WILL you stay here?<p>
 
-  
+# Números
+
+Como se escreve de 1 - 10 :
+
+
+| 1-9 | Escrita | 11-19 | Escrita     | 10-90 | Escrita | N°  | Escrita |     | Como se escreve |
+| --- | ------- | ----- | ----------- | ----- | ------- | --- | ------- | --- | --------------- |
+| 1   | One     | 11    | Eleven      | 10    | Ten     |     | sasa    |
+| 2   | Two     | 12    | Twelve      | 20    | Twenty  |     |
+| 3   | Three   | 13    | Thir*teen*  | 30    | Thirty  |     |
+| 4   | Four    | 14    | Four*teen*  | 40    | Forty   |     |
+| 5   | Five    | 15    | Fif*teen*   | 50    | Fifty   |     |
+| 6   | Six     | 16    | Six*teen*   | 60    | Sixty   |     |
+| 7   | Seven   | 17    | Seven*teen* | 70    | Seventy |     |
+| 8   | Eight   | 18    | Eigh*teen*  | 80    | Eighty  |     |
+| 9   | Nine    | 19    | Nine*teen*  | 90    | Ninety  |     |
+
+
