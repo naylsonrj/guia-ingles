@@ -11,19 +11,20 @@
 </p>
 
 ---
+# Features
 
-1. Verbo to be
-2. Conjugação de verbos
+- [Features](#features)
+- [Verbo to be](#verbo-to-be)
+- [Conjugação de verbos](#conjugação-de-verbos)
+    - [REGRA PARA CONJUGAÇÃO DE VERBO](#regra-para-conjugação-de-verbo)
+    - [Exemplos da aplicação da regra](#exemplos-da-aplicação-da-regra)
+- [Preposições](#preposições)
+- [Auxiliares Modais](#auxiliares-modais)
 
 
 
 
-
-<br>
-<br>
-<br>
-
-## Verbo to be {#verbo-to-be}
+# Verbo to be
 
 O verbo 'to be' pode expressar dois significados: ser ou estar.
 
@@ -42,12 +43,11 @@ O verbo 'to be' pode expressar dois significados: ser ou estar.
 
 > Pelo sentindo da frase você identifica quando o verbo vai ser ou estar
 
+---
 
-## Conjugação de verbos {#conjugacao-verbos}
-<br>
+# Conjugação de verbos
 
-### _Em Inglês só se conjuga verbo na 3ª Pessoa do Singular (he, she, it)_
-<br>
+> ### _Em Inglês só se conjuga verbo na 3ª Pessoa do Singular (he, she, it)_
 
 ### REGRA PARA CONJUGAÇÃO DE VERBO  
 | VERBOS com FINAL | APLICAR ESTÁ REGRA |
@@ -57,18 +57,39 @@ O verbo 'to be' pode expressar dois significados: ser ou estar.
 | CONSOANTE + Y    |      -Y +IES       |
 | RESTANTE         |        + S         |
 | EXCETO HAVE      |        HAS         |
+
+### Exemplos da aplicação da regra
+
+| PRONOME | TO GO<br>(O, S, X, SH, CH) | TO SAY<br>(VOGAL + Y) | TO FLY<br>(CONSOANTE + Y) | TO SPEAK<br>(RESTANTE) | TO HAVE<br>(EXCETO HAVE) |
+| ------- | :------------------------: | :-------------------: | :-----------------------: | :--------------------: | :----------------------: |
+| I       |             Go             |          Say          |            Fly            |         Speak          |           Have           |
+| You     |             Go             |          Say          |            Fly            |         Speak          |           Have           |
+| **He**  |          GO**ES**          |       SAY**S**        |         FY**IES**         |       SPEAK**S**       |         **HAS**          |
+| **She** |          GO**ES**          |       SAY**S**        |         FY**IES**         |       SPEAK**S**       |         **HAS**          |
+| **It**  |          GO**ES**          |       SAY**S**        |         FY**IES**         |       SPEAK**S**       |         **HAS**          |
+| We      |             Go             |          Say          |            Fly            |         Speak          |           Have           |
+| You     |             Go             |          Say          |            Fly            |         Speak          |           Have           |
+| They    |             Go             |          Say          |            Fly            |         Speak          |           Have           |
+
+
 ---
 
+# Preposições
 
-| Syntax  | TO GO(O, S, X, SH, CH) | TO SAY(VOGAL + Y | TO FLY(CONSOANTE + Y) | TO SPEAK(RESTANTE) | TO HAVE(EXCETO) |
-| ------- | :--------------------: | :--------------: | :-------------------: | :----------------: | :-------------: |
-| I       |           Go           |       Say        |          Fly          |       Speak        |      Have       |
-| You     |           Go           |       Say        |          Fly          |       Speak        |      Have       |
-| **He**  |        GO**ES**        |     SAY**S**     |       FY**IES**       |     SPEAK**S**     |     **HAS**     |
-| **She** |        GO**ES**        |     SAY**S**     |       FY**IES**       |     SPEAK**S**     |     **HAS**     |
-| **It**  |        GO**ES**        |     SAY**S**     |       FY**IES**       |     SPEAK**S**     |     **HAS**     |
-| We      |           Go           |       Say        |          Fly          |       Speak        |      Have       |
-| You     |           Go           |       Say        |          Fly          |       Speak        |      Have       |
-| They    |           Go           |       Say        |          Fly          |       Speak        |      Have       |
+> Em inglês temos apenas 3 preposições 
 
+><mark>IN</mark>(Usado para REGIÕES Bairro, cidade, estados, país e continente)
 
+I live IN Portugal 
+
+><mark>ON</mark> (Usado para fazer referências de local, trabalho... Pois não utiliza o endereço completo)
+
+I live ON Bank Street
+
+><mark>AT</mark> (Usado para informar ENDEREÇOS)
+
+I live AT 5, Bank Street 
+
+<br>
+
+# Auxiliares Modais
