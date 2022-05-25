@@ -44,13 +44,31 @@ O verbo 'to be' pode expressar dois significados: ser ou estar.
 
 
 ## Conjugação de verbos {#conjugacao-verbos}
+<br>
 
-REGRA PARA CONJUGAÇÃO DE VERBO
-| VERBOS com FINAL | APLICAR | TO BE | SER ou ESTAR |
-| ---------------- | :-----: | :---: | ------------ |
-| O, S, X, SH, CH  |  + ES   |  AM   | Eu sou/estou |
+### _Em Inglês só se conjuga verbo na 3ª Pessoa do Singular (he, she, it)_
+<br>
 
-_Em Inglês só se conjuga verbo na 3ª Pessoa do Singular (he, she, it)_
+### REGRA PARA CONJUGAÇÃO DE VERBO  
+| VERBOS com FINAL | APLICAR ESTÁ REGRA |
+| ---------------- | :----------------: |
+| O, S, X, SH, CH  |        + ES        |
+| VOGAL + Y        |        + S         |
+| CONSOANTE + Y    |      -Y +IES       |
+| RESTANTE         |        + S         |
+| EXCETO HAVE      |        HAS         |
+---
 
-Verbo TO GO (ir)
+
+| Syntax  | TO GO(O, S, X, SH, CH) | TO SAY(VOGAL + Y | TO FLY(CONSOANTE + Y) | TO SPEAK(RESTANTE) | TO HAVE(EXCETO) |
+| ------- | :--------------------: | :--------------: | :-------------------: | :----------------: | :-------------: |
+| I       |           Go           |       Say        |          Fly          |       Speak        |      Have       |
+| You     |           Go           |       Say        |          Fly          |       Speak        |      Have       |
+| **He**  |        GO**ES**        |     SAY**S**     |       FY**IES**       |     SPEAK**S**     |     **HAS**     |
+| **She** |        GO**ES**        |     SAY**S**     |       FY**IES**       |     SPEAK**S**     |     **HAS**     |
+| **It**  |        GO**ES**        |     SAY**S**     |       FY**IES**       |     SPEAK**S**     |     **HAS**     |
+| We      |           Go           |       Say        |          Fly          |       Speak        |      Have       |
+| You     |           Go           |       Say        |          Fly          |       Speak        |      Have       |
+| They    |           Go           |       Say        |          Fly          |       Speak        |      Have       |
+
 
