@@ -78,18 +78,33 @@ O verbo 'to be' pode expressar dois significados: ser ou estar.
 
 > Em inglês temos apenas 3 preposições 
 
-><mark>IN</mark>(Usado para REGIÕES Bairro, cidade, estados, país e continente)
+<mark>IN</mark>(Usado para REGIÕES Bairro, cidade, estados, país e continente)
 
-I live IN Portugal 
+*I live **IN** Portugal* 
 
-><mark>ON</mark> (Usado para fazer referências de local, trabalho... Pois não utiliza o endereço completo)
+<mark>ON</mark> (Usado para fazer referências de local, trabalho... Pois não utiliza o endereço completo)
 
-I live ON Bank Street
+*I live **ON** Bank Street*
 
-><mark>AT</mark> (Usado para informar ENDEREÇOS)
+<mark>AT</mark> (Usado para informar ENDEREÇOS)
 
-I live AT 5, Bank Street 
+*I live *AT* 5, Bank Street* 
 
 <br>
 
 # Auxiliares Modais
+
+Verbos auxiliares possuem a capacidade de alterar o contexto. 
+
+>### Quando se usa AUXILIAR não se conjuga verbo
+
+| MODAL  | ÃPLICAÇÃO                                                        |
+| ------ | ---------------------------------------------------------------- |
+| WILL   | Usado para auxilidar o verbo no FUTURO                           |
+| WOULD  | Usado para auxiliar o verbo no futuro do pretérito(passado)      |
+| CAN    | Usado quando queremos expressar idéia de PODER(no presente)      |
+| COULD  | Usado para expressar idéia de PODER futuro do pretérito(poderia) |
+| SHALL  | Usado quando queremos expressar idéia de HAVER (no presente)     |
+| SHOULD | Usado para expressar idéia de DEVER futuro do pretérito(deveria) |
+| MAY    | Usado quando queremos expressar idéia de DEVER (no presente)     |
+| MIGHT  | Usado quando queremos expressar idéia de TALVEZ                  |
