@@ -11,15 +11,16 @@
 </p>
 
 ---
-# Features
-
-- [Features](#features)
+ Indice
 - [Verbo to be](#verbo-to-be)
 - [Conjugação de verbos](#conjugação-de-verbos)
     - [REGRA PARA CONJUGAÇÃO DE VERBO](#regra-para-conjugação-de-verbo)
     - [Exemplos da aplicação da regra](#exemplos-da-aplicação-da-regra)
 - [Preposições](#preposições)
+  - [Preposiçoes de Local](#preposiçoes-de-local)
+  - [Preposiçoes de Tempo](#preposiçoes-de-tempo)
 - [Auxiliares Modais](#auxiliares-modais)
+- [Fazendo perguntas em inglês](#fazendo-perguntas-em-inglês)
 
 
 
@@ -76,21 +77,36 @@ O verbo 'to be' pode expressar dois significados: ser ou estar.
 
 # Preposições
 
-> Em inglês temos apenas 3 preposições 
+## Preposiçoes de Local
+> Em inglês temos apenas 3 preposições  (IN, ON, AT)
 
-<mark>IN</mark>(Usado para REGIÕES Bairro, cidade, estados, país e continente)
+<br>
+IN -> Usado para REGIÕES Bairro, cidade, estados, país e continente
 
 *I live **IN** Portugal* 
 
-<mark>ON</mark> (Usado para fazer referências de local, trabalho... Pois não utiliza o endereço completo)
+<br>
+ON -> Usado para fazer referências de local, trabalho... Pois não utiliza o endereço completo
 
 *I live **ON** Bank Street*
 
-<mark>AT</mark> (Usado para informar ENDEREÇOS)
+<br>
+AT -> Usado para informar ENDEREÇOS
 
 *I live *AT* 5, Bank Street* 
 
 <br>
+
+## Preposiçoes de Tempo
+
+| TEMPO   | USO | APLICAÇÃO                                                                                              |
+| ------- | --- | ------------------------------------------------------------------------------------------------------ |
+| DIURNO  | IN  | Usado para períodos **DIURNOS** *(morning, afternoon, evening)* <p>Exemplo:*I work **IN** the morning* |
+| NORTUNO | AT  | Usado para períodos **NOTURNOS** <p>Exemplo: *I work **AT** night*                                     |
+| SEMANA  | ON  | Usado para períodos da **SEMANA** (Seguda-feira à Domingo) <p>Exemplo: *I work **ON** monday*          |
+| HORÁRIO | AT  | Usado para **HORÁRIOS** <p>Exemplo: *I work **AT** 10:00*                                              |
+
+
 
 # Auxiliares Modais
 
@@ -108,3 +124,34 @@ Verbos auxiliares possuem a capacidade de alterar o contexto.
 | SHOULD | Usado para expressar idéia de DEVER futuro do pretérito(deveria) |
 | MAY    | Usado quando queremos expressar idéia de DEVER (no presente)     |
 | MIGHT  | Usado quando queremos expressar idéia de TALVEZ                  |
+
+# Fazendo perguntas em inglês
+
+Para transformar frases que contenham o verbo to be, basta inverter a posição do verbo.
+
+Exemplo:  
+- You **are** Brazilian -> **Are** you Brazilian?
+
+> Para transformar frases sem verbo TO BE, utiliza-se o auxiliar TO DO
+
+| Pronome | TO DO (fazer) |
+| ------- | ------------- |
+| I       | DO            |
+| You     | DO            |
+| He      | DOES          |
+| She     | DOES          |
+| It      | DOES          |
+| We      | DO            |
+| You     | DO            |
+| They    | DO            |
+
+<br>
+- EXEMPLOS:<br>
+You got to school -> DO you go to school?<p>
+He goes to School -> DOES he go to school?
+
+      OBS: Se a frase já possuir um verbo auxiliar, não utliza o TO DO, apenas inverter o axuliar presente.    
+- EXEMPLO:<br>
+You WILL stay here -> WILL you stay here?<p>
+
+  
