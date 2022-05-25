@@ -158,19 +158,28 @@ You WILL stay here -> WILL you stay here?<p>
 
 # Números
 
-Como se escreve de 1 - 10 :
+Com essa tabela é possivel escrever qualquer número utilizando o padrão para dezena, centenas, milhares.
 
+| 1-9 | Escrita | 11-19 | Escrita       | 10-90 | Escrita     | Ex. | Como se escreve  |
+| --- | ------- | ----- | ------------- | ----- | ----------- | --- | ---------------- |
+| 1   | One     | 11    | Eleven        | 10    | Ten         | 21  | Twen**ty**-One   |
+| 2   | Two     | 12    | Twelve        | 20    | Twen**ty**  | 32  | Thir**ty**-Two   |
+| 3   | Three   | 13    | Thir**teen**  | 30    | Thir**ty**  | 43  | For**ty**-Three  |
+| 4   | Four    | 14    | Four**teen**  | 40    | For**ty**   | 54  | Fif**ty**-Four   |
+| 5   | Five    | 15    | Fif**teen**   | 50    | Fif**ty**   | 65  | Six**ty**-Five   |
+| 6   | Six     | 16    | Six**teen**   | 60    | Six**ty**   | 76  | Seven**ty**-Six  |
+| 7   | Seven   | 17    | Seven**teen** | 70    | Seven**ty** | 87  | Eigh**ty**-Seven |
+| 8   | Eight   | 18    | Eigh**teen**  | 80    | Eigh**ty**  | 98  | Nine**ty**-Eight |
+| 9   | Nine    | 19    | Nine**teen**  | 90    | Nine**ty**  | 99  | Nine**ty**-Nine  |
 
-| 1-9 | Escrita | 11-19 | Escrita     | 10-90 | Escrita | N°  | Escrita |     | Como se escreve |
-| --- | ------- | ----- | ----------- | ----- | ------- | --- | ------- | --- | --------------- |
-| 1   | One     | 11    | Eleven      | 10    | Ten     |     | sasa    |
-| 2   | Two     | 12    | Twelve      | 20    | Twenty  |     |
-| 3   | Three   | 13    | Thir*teen*  | 30    | Thirty  |     |
-| 4   | Four    | 14    | Four*teen*  | 40    | Forty   |     |
-| 5   | Five    | 15    | Fif*teen*   | 50    | Fifty   |     |
-| 6   | Six     | 16    | Six*teen*   | 60    | Sixty   |     |
-| 7   | Seven   | 17    | Seven*teen* | 70    | Seventy |     |
-| 8   | Eight   | 18    | Eigh*teen*  | 80    | Eighty  |     |
-| 9   | Nine    | 19    | Nine*teen*  | 90    | Ninety  |     |
-
-
+| N°  | Como se escreve | Exemplos | Como se escreve                              |
+| --- | --------------- | -------- | -------------------------------------------- |
+| 100 | One Hundred     | 202      | Two Hundred AND two                          |
+| 200 | Two Hundred     | 555      | Five Hundred AND Fifty-five                  |
+| 300 | Three Hundred   | 662      | Six Hundred AND Sixty-two                    |
+| 400 | Four Hundred    | 1000     | One Thousand                                 |
+| 500 | Five  Hundred   | 2002     | Two Thousand and two                         |
+| 600 | Six Hundred     | 3300     | Three Thousand three hunded                  |
+| 700 | Seven Hundred   | 6789     | Six Thousand, Seven hundred and eighty-nine  |
+| 800 | Eight Hundred   | 7890     | Seven Thousand, eight hundred and ninety     |
+| 900 | Nine Hundred    | 8123     | Eight Thousand, one hundred and twenty-trhee |
