@@ -1,11 +1,13 @@
 
-<h1 align="center">:us:  Manual do Inglês :brazil:</h1> 
+<h1 align="center"> Manual do Inglês </h1> 
 <p>
 Um Guia completo para ajudar e preparar você na parte técnica de temas importantes no aprendizado do idioma inglês.
 
 Desfrute do conteúdo e aproveite para aprender inglês! ;)
 
-Sinta-se para contribuir com o desenvolvimento do manual.
+Sinta-se a vontade para contribuir com o desenvolvimento do manual.
+
+>A idéia surgiu com a necessidade de estudar e registrar todo apredizando, com o objetivo ajudar a comunidade dev e brasileira com um guia rápido e fácil de usar para aprender inglês.
 
 :green_heart::yellow_heart:
 <p>
