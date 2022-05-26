@@ -1,11 +1,13 @@
 
-<h1 align="center">Manual do Inglês para Devs :green_heart::yellow_heart: </h1> 
+<h1 align="center">:us:  Manual do Inglês :brazil:</h1> 
 <p>
 Um Guia completo para ajudar e preparar você na parte técnica de temas importantes no aprendizado do idioma inglês.
 
 Desfrute do conteúdo e aproveite para aprender inglês! ;)
 
 Sinta-se para contribuir com o desenvolvimento do manual.
+
+:green_heart::yellow_heart:
 <p>
 
  Índice
