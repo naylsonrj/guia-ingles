@@ -22,6 +22,12 @@
 - [Auxiliares Modais](#auxiliares-modais)
 - [Fazendo perguntas em inglês](#fazendo-perguntas-em-inglês)
 - [Números](#números)
+- [Como negar frases em inglês](#como-negar-frases-em-inglês)
+  - [Primeira maneira de negar uma frase](#primeira-maneira-de-negar-uma-frase)
+  - [Segunda maneira de negar uma frase](#segunda-maneira-de-negar-uma-frase)
+  - [Terceira maneira de negar uma frase](#terceira-maneira-de-negar-uma-frase)
+- [Pronomes](#pronomes)
+- [Família em inglês](#família-em-inglês)
 
 
 
@@ -183,3 +189,177 @@ Com essa tabela é possivel escrever qualquer número utilizando o padrão para 
 | 700 | Seven Hundred   | 6789     | Six Thousand, Seven hundred and eighty-nine  |
 | 800 | Eight Hundred   | 7890     | Seven Thousand, eight hundred and ninety     |
 | 900 | Nine Hundred    | 8123     | Eight Thousand, one hundred and twenty-trhee |
+
+# Como negar frases em inglês
+
+1. Usando verbo to be
+2. Usando o auxliar de negação DO/DOES
+3. teste
+
+## Primeira maneira de negar uma frase
+
+> Existem 3 formas diferentes de negar frases com o verbo to be
+> - Integral (menos usada)
+> - Contração-1 (Sujeito com verbo)
+> - Contração-2 (Verbo to be + NOT)
+
+| Integral     | Contração-1 | Contração-2      |
+| ------------ | ----------- | ---------------- |
+| I am NOT     | I'm NOT     | Ain't(coloquial) |
+| You are NOT  | You're NOT  | You AREN'T       |
+| He is NOT    | He's NOT    | He ISN'T         |
+| She is NOT   | She's NOT   | She ISN'T        |
+| It is NOT    | It's Not    | It ISN'T         |
+| We are NOT   | We're NOT   | We AREN'T        |
+| You are NOT  | You're NOT  | You AREN'T       |
+| They are NOT | They're NOT | They AREN'T      |
+
+> APENAS o verbo to be utiliza o NOT para negação!
+
+Exemplo:
+- YOU ARE HAPPY TODAY
+  - You are NOT happy today
+  - You're NOT happy today
+  - You AREN'T happy today
+
+## Segunda maneira de negar uma frase
+
+> Usando o auxiliar de negação DO / DOES<p>
+> Frase que não possui verbo to be se usa essa forma
+
+| Integral     | Contração   |
+| ------------ | ----------- |
+| I DO NOT     | I DON'T     |
+| You DO NOT   | You DON'T   |
+| He DOES NOT  | He DOESN'T  |
+| She DOES NOT | She DOESN'T |
+| It DOES NOT  | It DOESN'T  |
+| We DO NOT    | We DON'T    |
+| You DO NOT   | You DON'T   |
+| They DO NOT  | They DON'T  |
+
+Exemplo:
+- YOU LIVE IN PORTUGAL
+  - You DO NOT live in Portugal
+  - You DON'T live in Portugal
+
+## Terceira maneira de negar uma frase
+
+> Usando verbo auxiliares modais
+
+| AUXILIARES | Integral   | Contração |
+| ---------- | ---------- | --------- |
+| WILL       | Will NOT   | Won't     |
+| WOULD      | Would NOT  | Wouldn't  |
+| CAN        | Cannot     | Can't     |
+| COULD      | Could NOT  | Couldn't  |
+| SHALL      | Shall NOT  | -         |
+| SHOULD     | Should NOT | Souldn't  |
+| MAY        | May NOT    | -         |
+| MIGHT      | Might NOT  | -         |
+
+Exemplo:
+- YOU WILL BUY A HOUSE
+  - You WILL NOT buy a house
+  - You WON'T BUY a house
+
+# Pronomes
+
+> PRONOMES PESSOAIS: Só podem ser usados SE estiverem conjugando um verbo na frase.
+
+> PRONOMES OBJETIVOS: São usados quando NÃO estiverem conjugando um verbo na frase
+
+> PRONOMES POSSESSIVOS: Só é usado quando existe um SUBSTANTIVO depois do pronome
+
+> PRONOME DO CASO POSSESSIVO: É usado quando NÃO existir um substantivo depois do pronome possessivo
+
+
+| PESSOAL | OBJETIVOS | POSSESSIVO | CASO POSSESSIVO |
+| :-----: | :-------: | :--------: | :-------------: |
+|    I    |    Me     |     My     |      Mine       |
+|   You   |    You    |    You     |      Yours      |
+|   He    |    Him    |    His     |       His       |
+|   She   |    Her    |    Her     |      Hers       |
+|   It    |    It     |    Its     |       Its       |
+|   We    |    Us     |    Our     |      Ours       |
+|   You   |    You    |    Your    |      Yours      |
+|  They   |   Them    |   Their    |     Theirs      |
+
+Exemplos:<p> 
+
+Ela mora comigo -> She lives with me<p>
+Eu moro com ela -> I live with her<p>
+Esse é meu cachorro -> This is my dog <p>
+Esse cachorro é meu -> This dog is mine<p>
+
+# Família em inglês
+
+- Avós
+    - Grandmother: avó
+    - Grandma/Nana/Granny: vovó
+    - Grandfather: avô
+    - Grandpa: vovô
+    - Granddaughter: neta
+    - Grandson: neto
+    - Grandchildren: netos
+    - Great Grandmother: bisavó
+    - Great Grandfather: bisavô
+    - Great Grandparents - bisavós
+
+- Pais e filhos
+    - Parents: pais
+    - Mother: mãe 
+    - Mom/mommy: mamãe
+    - Father: pai
+    - Dad/daddy: papai
+    - Daughter: filha
+    - Son: filho
+    - Sister: irmã
+    - Brother: irmão
+    - Siblings: irmãos
+    - Child: criança/filho(a)
+    - Children: crianças/filhos
+
+- Tios, tias e primos(as)
+    - Aunt: tia
+    - Uncle: tio
+    - Cousin: primo(a)
+    - Niece: sobrinha
+    - Nephew: sobrinho
+
+- Sogros (Família em lei) 
+   - Mother-in-law: sogra
+   - Father-in-law: sogro
+   - Parents-in-law (ou “in-laws”): sogros
+   - Daughter-in-law: nora
+   - Son-in-law: genro
+   - Sister-in-law: cunhada
+   - Brother-in-law: cunhado
+
+- Demais familiares
+   - Stepmother: madrasta
+   - Stepfather: padrasto 
+   - Stepdaughter: enteada
+   - Stepson: enteado
+   - Stepsister: meia-irmã (sem conexão sanguínea, filha da madrasta ou do padrasto)
+   - Stepbrother: meio-irmão (sem conexão sanguínea, filha da madrasta ou do padrasto)
+   - Half-sister: irmã por parte de mãe/pai
+   - Half-brother: irmão por parte de mãe/pai 
+   - Godmother: madrinha
+   - Godfather: padrinho
+   - Goddaughter: afilhada
+   - Godson: afilhado
+   - Godchild: afilhado (aqui, não é especificado se é do gênero feminino ou masculino)\
+   - Maid of honor: madrinha de casamento
+   - Best man: padrinho de casamento
+
+- Status de relacionamento
+   - Girlfriend: namorada
+   - Boyfriend: namorado
+   - Fiancée: noiva
+   - Fiancé: noivo
+   - Bride: noiva (apenas no dia do casamento e em temas que digam respeito ao casamento em geral)
+   - Groom: noivo (apenas no dia do casamento e em temas que digam respeito ao casamento em geral)
+   - Wife: esposa
+   - Husband: marido
+   - Spouse: cônjuge
