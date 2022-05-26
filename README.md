@@ -7,7 +7,7 @@ Desfrute do conteúdo e aproveite para aprender inglês! ;)
 
 Sinta-se a vontade para contribuir com o desenvolvimento do manual.
 
->A idéia surgiu com a necessidade de estudar e registrar todo apredizando, com o objetivo ajudar a comunidade dev e brasileira com um guia rápido e fácil de usar para aprender inglês.
+>A idéia surgiu com a necessidade de estudar e registrar todo apredizando, com o objetivo ajudar a comunidade dev e brasileira com um guia rápido.
 
 :green_heart::yellow_heart:
 <p>
@@ -114,7 +114,7 @@ AT -> Usado para informar ENDEREÇOS
 | SEMANA  | ON  | Usado para períodos da **SEMANA** (Seguda-feira à Domingo) <p>Exemplo: *I work **ON** monday*          |
 | HORÁRIO | AT  | Usado para **HORÁRIOS** <p>Exemplo: *I work **AT** 10:00*                                              |
 
-
+---
 
 # Auxiliares Modais
 
@@ -163,6 +163,8 @@ He goes to School -> DOES he go to school?
 EXEMPLO:<br>
 You WILL stay here -> WILL you stay here?<p>
 
+---
+
 # Números
 
 Com essa tabela é possivel escrever qualquer número utilizando o padrão para dezena, centenas, milhares.
@@ -191,11 +193,13 @@ Com essa tabela é possivel escrever qualquer número utilizando o padrão para 
 | 800 | Eight Hundred   | 7890     | Seven Thousand, eight hundred and ninety     |
 | 900 | Nine Hundred    | 8123     | Eight Thousand, one hundred and twenty-trhee |
 
+---
+
 # Como negar frases em inglês
 
 1. Usando verbo to be
 2. Usando o auxliar de negação DO/DOES
-3. teste
+3. Usando verbo auxiliares modais
 
 ## Primeira maneira de negar uma frase
 
@@ -263,6 +267,8 @@ Exemplo:
 - YOU WILL BUY A HOUSE
   - You WILL NOT buy a house
   - You WON'T BUY a house
+  
+---
 
 # Pronomes
 
@@ -364,3 +370,5 @@ Esse cachorro é meu -> This dog is mine<p>
    - Wife: esposa
    - Husband: marido
    - Spouse: cônjuge
+
+---
