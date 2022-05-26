@@ -1,17 +1,14 @@
-<h1 align="center">Manual do Inglês</h1>
-<p align="center">
- <a href="#verbo-to-be">Verbo to be</a> •
- <a href="#conjugacao-verbos">Conjugação de Verbos</a> •
- <a href="#links">Links</a> •
- <a href="#tecnologias">Tecnologias</a> •
- <a href="#features">Features</a> •
- <a href="#pré-requisitos">Pré Requisitos</a> •
- <a href="#clonar-o-repositório">Clonar repositório</a> •
- <a href="#autor">Autor</a>
-</p>
 
----
- Indice
+<h1 align="center">Manual do Inglês para Devs :green_heart::yellow_heart: </h1> 
+<p>
+Um Guia completo para ajudar e preparar você na parte técnica de temas importantes no aprendizado do idioma inglês.
+
+Desfrute do conteúdo e aproveite para aprender inglês! ;)
+
+Sinta-se para contribuir com o desenvolvimento do manual.
+<p>
+
+ Índice
 - [Verbo to be](#verbo-to-be)
 - [Conjugação de verbos](#conjugação-de-verbos)
     - [REGRA PARA CONJUGAÇÃO DE VERBO](#regra-para-conjugação-de-verbo)
