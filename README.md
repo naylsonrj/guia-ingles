@@ -22,6 +22,7 @@ Sinta-se a vontade para contribuir com o desenvolvimento do manual.
   - [Preposiçoes de Tempo](#preposiçoes-de-tempo)
 - [Auxiliares Modais](#auxiliares-modais)
 - [Fazendo perguntas em inglês](#fazendo-perguntas-em-inglês)
+  - [Respondendo perguntas](#respondendo-perguntas)
 - [Números](#números)
 - [Como negar frases em inglês](#como-negar-frases-em-inglês)
   - [Primeira maneira de negar uma frase](#primeira-maneira-de-negar-uma-frase)
@@ -164,6 +165,35 @@ He goes to School -> DOES he go to school?
 
 EXEMPLO:<br>
 You WILL stay here -> WILL you stay here?<p>
+
+## Respondendo perguntas
+
+Quando a pergunta contém o verbo to be, você responde com o verbo to be. <br>
+Exemplo:<br>
+P: Are you at home?<br> 
+R: Yes, I am. / No, I'm not.<br>
+
+Quando você faz um pergunta com qualquer tipo de auxiliar, você responde com o mesmo auxiliar.<br>
+
+Exemplo:<br>
+P: Do you have a car?<br>
+R: Yes, I do. / No, I don't.<br>
+
+P: Does she like pizza?<br>
+R: Yes, she does. / No, she doesn't.<br>
+
+P: Will you work here?<br>
+R: Yes, I will. / No, I won't.<br>
+
+P: Can you help me?<br>
+R: Yes, I can. / No, I can't.<br>
+
+P: Would you like to go to the cinema?<br>
+R: Yes, I would. / No, I wouldn't.<br>
+
+P: Could you sleep here?<br>
+R: Yes, I could. / No, I couldn't.<br>
+
 
 ---
 
