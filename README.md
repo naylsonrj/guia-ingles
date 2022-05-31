@@ -29,6 +29,7 @@ Sinta-se a vontade para contribuir com o desenvolvimento do manual.
   - [Terceira maneira de negar uma frase](#terceira-maneira-de-negar-uma-frase)
 - [Pronomes](#pronomes)
 - [Família em inglês](#família-em-inglês)
+- [Regra dos Plurais](#regra-dos-plurais)
 
 
 
@@ -370,5 +371,70 @@ Esse cachorro é meu -> This dog is mine<p>
    - Wife: esposa
    - Husband: marido
    - Spouse: cônjuge
+
+---
+
+# Regra dos Plurais
+
+Independente da palavra ter terminado com vogal ou consoante, sempre terminará com "S".
+
+**Com exceção das regras:**
+
+Se uma palavra terminar com as letras **"s,x,z,sh,ch"**, só acrescenta o **ES**.
+| s,x,z,sh,ch | + ES    |
+| ----------- | ------- |
+| Bus         | BusES   |
+| Tax         | TaxES   |
+| Blitz       | BlitzES |
+| Marsh       | MarshES |
+| Beach       | BeachES |
+
+Se uma palavra terminar com **VOGAL** e **Y**, só acrescenta o **S**.
+| Vogal + Y | + S  |
+| --------- | ---- |
+| Day       | DayS |
+| Toy       | ToyS |
+
+Se uma palavra terminar com **CONSOANTE** e **Y**, remove o **Y** e acrescenta o **IES**.
+| Consoante + Y | -Y + IES |
+| ------------- | -------- |
+| Baby          | BabIES   |
+| City          | CitIES   |
+
+Se uma palavra terminar com **"F / FE"**, remove o **"F/FE"** e acrescenta o **VES**.
+| Terminar F/FE | -F/FE + VES |
+| ------------- | ----------- |
+| Wolf          | WolVES      |
+| Life          | LiVES       |
+
+Se uma palavra terminar com **VOGAL** e **O**, só acrescenta o **S**.
+| Vogal + O | + S     |
+| --------- | ------- |
+| Radio     | RadioS  |
+| Studio    | StudioS |
+
+Se uma palavra terminar com **CONSOANTE** e **O**, só acrescenta o **ES**.
+| Consoante + O | + ES     |
+| ------------- | -------- |
+| Hero          | HeroES   |
+| Potato        | PotatoES |
+
+Palavras derividas de músicas e arte que terminam com **O** você só acrescenta o **S**.
+| Terminam com O | + S    |
+| -------------- | ------ |
+| Piano          | PianoS |
+| Photo          | PhotoS |
+
+
+| Plurais Irregulares | Plural   |
+| ------------------- | -------- |
+| Child (Criança)     | Children |
+| Person (Pessoa)     | People   |
+| Man (Homem)         | Men      |
+| Woman (Mulher)      | Women    |
+| Foot  (Pé)          | Feet     |
+| Tooth  (Dente)      | Teeth    |
+| Goose   (Ganso)     | Geese    |
+| Mouse  (Camundongo) | Mice     |
 
 ---
