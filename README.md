@@ -15,7 +15,7 @@ Sinta-se a vontade para contribuir com o desenvolvimento do manual.
  Índice
 - [Verbo to be](#verbo-to-be)
 - [Conjugação de verbos](#conjugação-de-verbos)
-    - [REGRA PARA CONJUGAÇÃO DE VERBO](#regra-para-conjugação-de-verbo)
+    - [Regra para conjugação de verbo](#regra-para-conjugação-de-verbo)
     - [Exemplos da aplicação da regra](#exemplos-da-aplicação-da-regra)
 - [Preposições](#preposições)
   - [Preposiçoes de Local](#preposiçoes-de-local)
@@ -30,6 +30,7 @@ Sinta-se a vontade para contribuir com o desenvolvimento do manual.
 - [Pronomes](#pronomes)
 - [Família em inglês](#família-em-inglês)
 - [Regra dos Plurais](#regra-dos-plurais)
+- [Formas de falar horas](#formas-de-falar-horas)
 
 
 
@@ -59,7 +60,7 @@ O verbo 'to be' pode expressar dois significados: ser ou estar.
 
 > ### _Em Inglês só se conjuga verbo na 3ª Pessoa do Singular (he, she, it)_
 
-### REGRA PARA CONJUGAÇÃO DE VERBO  
+### Regra para conjugação de verbo 
 | VERBOS com FINAL | APLICAR ESTÁ REGRA |
 | ---------------- | :----------------: |
 | O, S, X, SH, CH  |        + ES        |
@@ -438,3 +439,39 @@ Palavras derividas de músicas e arte que terminam com **O** você só acrescent
 | Mouse  (Camundongo) | Mice     |
 
 ---
+
+# Formas de falar horas
+
+No inglês o formato de horas é diferente. Só se usa o formato de 12 horas.
+
+Em inglês utiliza-se AM(00h até 11:59) e PM(12h as 23:59) para representar o período da manhã e da tarde. <br>
+
+Exemplo:<br>
+1:00 -> "It's one A.M." / "It's one P.M."<br>
+
+A palavra **O'Clock** é utilizada para horas exatas.
+Exemplo:<br>
+1:00 -> "It's one o'clock"
+
+De 1 minuto a 9 minutos: utiliza-se a palavra **OH** ou **PAST**(forma menos utilizada).
+
+Exemplo:<br>
+1:05 -> It's one **oh** five" / "It's five past one".
+
+Outras formas de falar horas:<br>
+1:10 -> "It's one ten"<br>
+1:10 -> "It's ten past one"<br>
+1:15 -> "It's one fifteen"<br>
+1:15 -> "It's fifteen past one"<br>
+1:20 -> "It's one twenty"<br>
+1:25 -> "It's one twenty-five"<br>
+1:30 -> "It's one thirty"<br>
+1:30 -> "It's half past one"<br>
+1:40 -> "It's one forty"<br>
+1:45 -> "It's one forty-five"<br>
+1:50 -> "It's one fifty"<br>
+1:55 -> "It's one fifty-five"<br>
+2:00 -> "It's two o'clock"<br>
+12:00 -> "It's noon"<br>
+
+
