@@ -17,6 +17,8 @@ Sinta-se a vontade para contribuir com o desenvolvimento do manual.
 - [Conjugação de verbos](#conjugação-de-verbos)
     - [Regra para conjugação de verbo](#regra-para-conjugação-de-verbo)
     - [Exemplos da aplicação da regra](#exemplos-da-aplicação-da-regra)
+  - [Presente Continuo](#presente-continuo)
+  - [Verbo to be no passado](#verbo-to-be-no-passado)
 - [Preposições](#preposições)
   - [Preposiçoes de Local](#preposiçoes-de-local)
   - [Preposiçoes de Tempo](#preposiçoes-de-tempo)
@@ -32,6 +34,7 @@ Sinta-se a vontade para contribuir com o desenvolvimento do manual.
 - [Família em inglês](#família-em-inglês)
 - [Regra dos Plurais](#regra-dos-plurais)
 - [Formas de falar horas](#formas-de-falar-horas)
+- [Verbos Irregulares no Passado](#verbos-irregulares-no-passado)
 
 
 
@@ -83,6 +86,41 @@ O verbo 'to be' pode expressar dois significados: ser ou estar.
 | You     |             Go             |          Say          |            Fly            |         Speak          |           Have           |
 | They    |             Go             |          Say          |            Fly            |         Speak          |           Have           |
 
+## Presente Continuo
+
+A estrutura do present continuous traz o -ing no final do verbo para indicar o que em português seriam os nossos “ando”, “endo” ou “indo”, por exemplo em “falando”, “comendo” e “dormindo”.
+
+| VERBOS   | CONJUGAÇÃO   |
+| -------- | ------------ |
+| To work  | **Work**ing  |
+| to eat   | **Eat**ing   |
+| To drive | **Driv**ing  |
+| To love  | **Lov**ing   |
+| to see   | **See**ing   |
+| to agree | **Agree**ing |
+| to lie   | **Ly**ing    |
+| to die   | **Dy**ing    |
+| to play  | **Play**ing  |
+| to study | **Study**ing |
+| to run   | **Runn**ing  |
+| to get   | **Gett**ing  |
+
+## Verbo to be no passado
+
+| Syntax |  PRONOME  | PASSADO | SER ou ESTAR          |
+| ------ | :-------: | :-----: | --------------------- |
+| I      |    Eu     |   WAS   | Eu era/estava/fui     |
+| You    |  Tu/Você  |  WERE   | Você era/estava       |
+| He     |    Ele    |   WAS   | Ele era/estava        |
+| She    |    Ela    |   WAS   | Ela era/estava        |
+| It     |  Ele/Ela  |   WAS   | Ele ou Ela era/estava |
+| We     |    Nós    |  WERE   | Nós éramos/estavamos  |
+| You    | Vós/Vocês |  WERE   | Vocês eram/estavam    |
+| They   | Eles/Elas |  WERE   | Eles eram/estavam     |
+
+Todos os demais verbos no passado só possuem uma conugação.
+
+
 
 ---
 
@@ -125,7 +163,7 @@ Verbos auxiliares possuem a capacidade de alterar o contexto.
 
 >### Quando se usa AUXILIAR não se conjuga verbo
 
-| MODAL  | ÃPLICAÇÃO                                                        |
+| MODAL  | APLICAÇÃO                                                        |
 | ------ | ---------------------------------------------------------------- |
 | WILL   | Usado para auxilidar o verbo no FUTURO                           |
 | WOULD  | Usado para auxiliar o verbo no futuro do pretérito(passado)      |
@@ -173,7 +211,7 @@ Exemplo:<br>
 P: Are you at home?<br> 
 R: Yes, I am. / No, I'm not.<br>
 
-Quando você faz um pergunta com qualquer tipo de auxiliar, você responde com o mesmo auxiliar.<br>
+Quando você faz uma pergunta com qualquer tipo de auxiliar, você responde com o mesmo auxiliar.<br>
 
 Exemplo:<br>
 P: Do you have a car?<br>
@@ -193,7 +231,6 @@ R: Yes, I would. / No, I wouldn't.<br>
 
 P: Could you sleep here?<br>
 R: Yes, I could. / No, I couldn't.<br>
-
 
 ---
 
@@ -503,5 +540,10 @@ Outras formas de falar horas:<br>
 1:55 -> "It's one fifty-five"<br>
 2:00 -> "It's two o'clock"<br>
 12:00 -> "It's noon"<br>
+
+---
+
+# Verbos Irregulares no Passado
+
 
 
