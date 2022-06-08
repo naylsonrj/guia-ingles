@@ -35,6 +35,7 @@ Sinta-se a vontade para contribuir com o desenvolvimento do manual.
 - [Regra dos Plurais](#regra-dos-plurais)
 - [Formas de falar horas](#formas-de-falar-horas)
 - [Verbos Irregulares no Passado](#verbos-irregulares-no-passado)
+- [Negativas no Passado](#negativas-no-passado)
 
 
 
@@ -544,6 +545,9 @@ Outras formas de falar horas:<br>
 ---
 
 # Verbos Irregulares no Passado
+
+# Negativas no Passado
+
 
 
 
