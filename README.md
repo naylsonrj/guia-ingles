@@ -36,6 +36,7 @@ Sinta-se a vontade para contribuir com o desenvolvimento do manual.
 - [Formas de falar horas](#formas-de-falar-horas)
 - [Verbos Irregulares no Passado](#verbos-irregulares-no-passado)
 - [Negativas no Passado](#negativas-no-passado)
+- [Pronomes Interrogativos](#pronomes-interrogativos)
 
 
 
@@ -549,5 +550,16 @@ Outras formas de falar horas:<br>
 # Negativas no Passado
 
 
+# Pronomes Interrogativos
+
+| PRONOMES | Tradução                                  |
+| -------- | ----------------------------------------- |
+| WHAT     | Que, O quê, Qual                          |
+| WHEN     | Quando                                    |
+| WHERE    | Onde, Aonde                               |
+| WHY      | Por que(Perguntar) <p> Because(Responder) |
+| WHO      | Quem                                      |
+| WHICH    | Qual(Opções)                              |
+| HOW      | Como, Quão                                |
 
 
