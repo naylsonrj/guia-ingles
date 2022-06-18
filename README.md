@@ -39,6 +39,7 @@ OBS: Pretendo colocar links de videos e links de artigos para ajudar no aprediza
 - [Verbos Irregulares no Passado](#verbos-irregulares-no-passado)
 - [Negativas no Passado](#negativas-no-passado)
 - [Pronomes Interrogativos](#pronomes-interrogativos)
+- [Minhas frases para usar no ANKI](#minhas-frases-para-usar-no-anki)
 
 
 
@@ -564,4 +565,49 @@ Outras formas de falar horas:<br>
 | WHICH    | Qual(Opções)                              |
 | HOW      | Como, Quão                                |
 
+# Minhas frases para usar no ANKI
 
+| inglês                                  | Português                                         |
+| --------------------------------------- | ------------------------------------------------- |
+| You should take the subway.             | Você deveria pegar o metrô.                       |
+| Where is the nearest train station?     | Onde é a estação de trem mais próxima?            |
+| Turn left at the next corner.           | Vire à esquerda na próxima esquina.               |
+| Can I get there by bus?                 | Eu consigo chegar lá de ônibus?                   |
+| We can walk there.                      | Nós podemos andar até lá.                         |
+| There's nowhere to park.                | Não há lugar para estacionar.                     |
+| Turn right at the traffic lights.       | Vire à direita no semáforo.                       |
+| I think we're lost!                     | Acho que estamos perdidas!                        |
+| Can you drive?                          | Você pode dirigir?                                |
+| A round-trip ticket to Dallas, please.  | Uma passagem de ida e volta a Dallas, por favor.  |
+| Now begin again, please.                | Agora comece de novo, por favor.                  |
+| Go outside, please.                     | Vai lá fora, por favor.                           |
+| Stop please.                            | Pare por favor.                                   |
+| Come here. hurry!                       | Vem aqui. Depressa!                               |
+| You never wait.                         | Você nunca espera.                                |
+| Come again?                             | Poderia repetir o que disse?                      |
+| You are tired.                          | Você está cansado.                                |
+| You speak english.                      | Você fala inglês.                                 |
+| I love working from home.               | Eu amo trabalhar em casa.                         |
+| I don't have to drive to work.          | Eu não tenho que dirigir para o trabalho.         |
+| My favorite season is fall.             | Minha estação favorita é outono.                  |
+| I don’t like winter.                    | Eu não gosto do inverno.                          |
+| The library is right next to the bank.  | A biblioteca fica ao lado do banco.               |
+| I like taking photographs of flowers.   | Eu gosto de tirar fotografias de flores.          |
+| How long does it take to get there?     | Quanto demora para chegar lá?                     |
+| Flight 302 to Portugal is now boarding. | O voo 302 para Portugal está embarcando agora.    |
+| Take the B line.                        | Pegue a linha B.                                  |
+| Get off at Harvard Avenue.              | Desça na Avenida Harvard.                         |
+| A table for two, please.                | Uma mesa para dois, por favor.                    |
+| Can we have the menu?                   | Podemos ver o menu?                               |
+| Are you ready to order?                 | Você está pronta para pedir?                      |
+| I'll have a beer.                       | Eu quero uma cerveja.                             |
+| Why tomorrow?                           | Por que amanhã?                                   |
+| Done. Perfect. Now begin again, please. | Feito. Perfeito. Agora Comece de novo, por favor. |
+| Once, maybe twice.                      | Uma vez, talvez duas vezes.                       |
+| Why exactly?                            | Por que exatamente?                               |
+| Who? Me? What? Why?                     | Quem? Eu? O que? Por que?                         |
+| Maybe now, maybe never.                 | Talvez agora, talvez nunca.                       |
+| When you stop, please come here.        | Quando você parar, por favor, vem aqui.           |
+| Awesome. Cool, thanks.                  | Incrível. Legal, Obrigado.                        |
+
+---
