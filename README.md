@@ -618,5 +618,17 @@ Outras formas de falar horas:<br>
 | I'd like the lasagna, please.           | Eu quero a lasanha, por favor.                    |
 | A coffee to go, please.                 | Um café para levar, por favor.                    |
 | Did you enjoy your meal?                | Você gostou da sua refeição?                      |
+| DO you haver a car?                     | Você tem um carro?                                |
+| DOES she like pizza?                    | Ela gosta de pizza?                               |
+| WILL you work here?                     | Você trabalhará aqui?                             |
+| WOULD you buy a house?                  | Você compraria uma casa?                          |
+| CAN you open the door?                  | Você pode abrir a porta?                          |
+| Are you SAD ?                           | Você está triste?                                 |
+| Did you enjoy your meal?                | Você gostou da sua refeição?                      |
+| I had ice cream for dessert.            | Eu comi sorvete de sobremesa.                     |
+| Do you like Italian food?               | Você gosta de comida italiana?                    |
+| What would you recommend?               | O que você recomendaria?                          |
+| I'll call the waitress.                 | Eu vou chamar a garçonete.                        |
+
 
 ---
