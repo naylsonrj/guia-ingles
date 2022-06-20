@@ -609,5 +609,14 @@ Outras formas de falar horas:<br>
 | Maybe now, maybe never.                 | Talvez agora, talvez nunca.                       |
 | When you stop, please come here.        | Quando você parar, por favor, vem aqui.           |
 | Awesome. Cool, thanks.                  | Incrível. Legal, Obrigado.                        |
+| You go there sometimes.                 | Você vai lá, às vezes.                            |
+| Now, you wait here, deal?               | Agora você espera aqui, combinado ?               |
+| Never go there.                         | Nunca vá lá.                                      |
+| Technology is constantly evolving.      | A tecnologia está em constante evolução.          |
+| You need to update your system.         | Você precisa atualizar seu sistema.               |
+| Have you ever bought anything online?   | Você já comprou alguma coisa online?              |
+| I'd like the lasagna, please.           | Eu quero a lasanha, por favor.                    |
+| A coffee to go, please.                 | Um café para levar, por favor.                    |
+| Did you enjoy your meal?                | Você gostou da sua refeição?                      |
 
 ---
