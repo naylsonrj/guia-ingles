@@ -1,6 +1,7 @@
 
 <h1 align="center"> Guia do Inglês </h1> 
 <p>
+Em construção!!!
 Um Guia prático para ajudar e preparar você na parte técnica de temas importantes no aprendizado do idioma inglês.
 
 Desfrute do conteúdo e aproveite para aprender inglês! ;)
@@ -201,7 +202,7 @@ Exemplo:
 
 <br>
 - EXEMPLOS:<br>
-You got to school -> DO you go to school?<p>
+You got to school -> DO you go to school?<br>
 He goes to School -> DOES he go to school?
 
 **OBS: Se a frase já possuir um verbo auxiliar, não utliza o TO DO, apenas inverter o axuliar presente.**
