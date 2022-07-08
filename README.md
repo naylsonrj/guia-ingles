@@ -10,8 +10,6 @@ Sinta-se a vontade para contribuir com o desenvolvimento do guia.
 
 >A idéia surgiu com a necessidade de estudar e registrar todo apredizando, com o objetivo ajudar a comunidade dev e brasileira com um guia rápido.
 
-OBS: Pretendo colocar links de videos e links de artigos para ajudar no apredizando do idioma inglês.
-
 :green_heart::yellow_heart:
 <p>
 
