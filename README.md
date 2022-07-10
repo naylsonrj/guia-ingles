@@ -6,9 +6,7 @@ Um Guia prático para ajudar e preparar você na parte técnica de temas importa
 
 Desfrute do conteúdo e aproveite para aprender inglês! ;)
 
-Sinta-se a vontade para contribuir com o desenvolvimento do guia.
-
->A idéia surgiu com a necessidade de estudar e registrar todo apredizando, com o objetivo ajudar a comunidade dev e brasileira com um guia rápido.
+Sinta-se a vontade para contribuir com o desenvolvimento do guia
 
 :green_heart::yellow_heart:
 <p>
