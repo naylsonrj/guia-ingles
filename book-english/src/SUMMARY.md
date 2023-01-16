@@ -1,0 +1,31 @@
+
+# Summary
+
+[Introduction](README.md)
+
+
+- [Verbo to be](#verbo-to-be)
+- [Conjugação de verbos](#conjugação-de-verbos)
+    - [Regra para conjugação de verbo](#regra-para-conjugação-de-verbo)
+    - [Exemplos da aplicação da regra](#exemplos-da-aplicação-da-regra)
+  - [Presente Continuo](#presente-continuo)
+  - [Verbo to be no passado](#verbo-to-be-no-passado)
+- [Preposições](#preposições)
+  - [Preposiçoes de Local](#preposiçoes-de-local)
+  - [Preposiçoes de Tempo](#preposiçoes-de-tempo)
+- [Auxiliares Modais](#auxiliares-modais)
+- [Fazendo perguntas em inglês](#fazendo-perguntas-em-inglês)
+  - [Respondendo perguntas](#respondendo-perguntas)
+- [Números](#números)
+- [Como negar frases em inglês](#como-negar-frases-em-inglês)
+  - [Primeira maneira de negar uma frase](#primeira-maneira-de-negar-uma-frase)
+  - [Segunda maneira de negar uma frase](#segunda-maneira-de-negar-uma-frase)
+  - [Terceira maneira de negar uma frase](#terceira-maneira-de-negar-uma-frase)
+- [Pronomes](#pronomes)
+- [Família em inglês](#família-em-inglês)
+- [Regra dos Plurais](#regra-dos-plurais)
+- [Formas de falar horas](#formas-de-falar-horas)
+- [Verbos Irregulares no Passado](#verbos-irregulares-no-passado)
+- [Negativas no Passado](#negativas-no-passado)
+- [Pronomes Interrogativos](#pronomes-interrogativos)
+- [Minhas frases para usar no ANKI](#minhas-frases-para-usar-no-anki)
